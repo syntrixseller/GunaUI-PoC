@@ -1,5 +1,3 @@
----
-
 # GunaUI Login Bypass PoC
 
 A proof-of-concept (PoC) demonstrating how to programmatically hide the GunaUI login screen prompt in applications that use overly aggressive or unlicensed UI prompts.
@@ -116,5 +114,3 @@ Do not use to bypass licensing mechanisms illegally.
 ## 📜 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
