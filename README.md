@@ -12,9 +12,11 @@ Some applications using GunaUI controls may implement intrusive or unskippable l
 
 The bypass works by:
 
-- Enumerating all top-level windows
-- Identifying windows with the class name `Guna.UI2.WinForms.Guna2MessageDialog`
-- Using `ShowWindow` with `SW_HIDE` to hide the dialog
+- Continuously `enumerating all top-level windows` every second
+- Checking window titles for the string `"Guna.UI2" (case-insensitive)`
+- Ensuring the `window belongs to a devenv process (Visual Studio)`
+- Using ShowWindow with `SW_HIDE` to hide the dialog
+- `Logging success or warning messages` based on results
 
 ## 🧩 Code Example
 
