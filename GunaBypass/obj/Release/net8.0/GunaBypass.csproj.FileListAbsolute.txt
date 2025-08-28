@@ -1,0 +1,14 @@
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\bin\Release\net8.0\GunaBypass.exe
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\bin\Release\net8.0\GunaBypass.deps.json
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\bin\Release\net8.0\GunaBypass.runtimeconfig.json
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\bin\Release\net8.0\GunaBypass.dll
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\bin\Release\net8.0\GunaBypass.pdb
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.AssemblyInfo.cs
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.dll
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\refint\GunaBypass.dll
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.pdb
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\GunaBypass.genruntimeconfig.cache
+C:\Users\miles\source\repos\GunaBypass\GunaBypass\obj\Release\net8.0\ref\GunaBypass.dll
